@@ -35,5 +35,5 @@
 
 ## Часть 2. Расчёт нагрузки <a name="2"></a>
 
-## Список источников
+### Список источников
 [^1]: [Статистика Google Workspace в 2024 году](https://explodingtopics.com/blog/google-workspace-stats)
