@@ -31,8 +31,8 @@
 - Мгновенное обновление документа на сервере при редактировании
 
 ### Целевая аудитория
-- 1 млрд активных пользователей по всему миру [[1]](https://explodingtopics.com/blog/google-workspace-stats)
+- 1 млрд активных пользователей по всему миру [^1]
 
 
 ## Список источников
-1. https://explodingtopics.com/blog/google-workspace-stats
+[^1]: [Статистика Google Workspace в 2024 году](https://explodingtopics.com/blog/google-workspace-stats)
